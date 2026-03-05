@@ -7,6 +7,9 @@
     left:300px;
     top:100px;
 }
+.box:hover{
+    cursor:pointer;
+}
 #grey{
     background-color:grey;
 }
